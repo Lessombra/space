@@ -138,7 +138,7 @@
    <properties>
 		<!--スプリングバージョン -->
 		<spring.version>4.3.7.RELEASE</spring.version>
-		<jackson.version>2.5.0</jackson.version>
+		<jackson.version>2.11.0</jackson.version>
 	</properties>
   
   <!-- JDKのバージョン -->
